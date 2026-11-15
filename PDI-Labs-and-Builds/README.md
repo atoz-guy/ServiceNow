@@ -2,7 +2,7 @@
 
 **The goal:** prove what the certs say. Each build is done in my ServiceNow Personal Developer Instance (PDI) and written up with screenshots.
 
-Where I can, each build uses work from my other labs, so it's a real scenario, not a made-up one.
+Where I can, each build uses work from my other labs, so it's a real scenario, not a made-up one. 
 
 ---
 
