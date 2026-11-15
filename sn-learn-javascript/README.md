@@ -6,7 +6,7 @@ This repository contains examples used in the video series in folders correspond
 You can find the video series on the ServiceNow Developer 
 [YouTube channel](https://www.youtube.com/watch?v=62Nabpb94Jw&list=PL3rNcyAiDYK2_87aRvXEmAyD8M9DARVGK&index=1)
 
-Scripts use the naming structure **L(lesson#)S(script#).js**. 
+Scripts use the naming structure **L(lesson#)S(script#).js**.  
 Example, L09S01.js refers to Lesson 9, script example 1. 
 Solutions to lab exercises can also be found in the *Lab Solutions* folder.
 
