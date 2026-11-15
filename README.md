@@ -1,6 +1,6 @@
 # ServiceNow
 
-**Afiz (AJ) Jiwa** | ServiceNow GRC, SecOps and IRM
+**Afiz (AJ) Jiwa** | ServiceNow GRC, SecOps and IRM 
 
 ServiceNow is the platform that makes GRC real. Most companies already run on it, at least for ticketing, and many use it for much more. I haven't found anything else that covers GRC as completely. This repo holds my ServiceNow certifications, what each one taught me, and the hands-on builds that prove it.
 
