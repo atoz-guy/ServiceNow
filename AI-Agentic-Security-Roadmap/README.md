@@ -2,6 +2,8 @@
 
 How my ServiceNow stack (AI Control Tower, IRM, SecOps) fits with PAM (CyberArk / Entra), Armis and enterprise API gateways to secure AI agents, and the streamlined path I'm following to get there.
 
+> 🎯 **Target role:** Remote PAM / Identity Security Engineer in **healthcare or banking**, with **AI agent security** as my edge: controlling who and what (people, vendors and AI agents) gets into critical systems, hands-on in Linux, Python and the CLI.
+
 The hands-on security side (OWASP, APIs, IAM, PAM, AI agent labs) lives in my [AI Agentic Security Roadmap](https://github.com/atoz-guy/ai-agentic-security-roadmap). This page is the ServiceNow side: **the labs teach the attacks, and ServiceNow enforces the controls.**
 
 ---

@@ -6,6 +6,8 @@ ServiceNow is the platform that makes GRC real. Most companies already run on it
 
 More on how I think about GRC: [How I see it](https://github.com/atoz-guy/GRC-Governance-Risk-Compliance/blob/main/Pathway.md#how-i-see-it)
 
+> 🎯 **Where I'm heading:** Remote PAM / Identity Security Engineer in **healthcare or banking**, with **AI agent security** as my edge. ServiceNow is the "why" engine and kill switch behind those access controls. See [AI-Agentic-Security-Roadmap](AI-Agentic-Security-Roadmap).
+
 ---
 
 ## 📌 Certifications
