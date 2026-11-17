@@ -42,6 +42,7 @@ Certs show what I know. These show what I can build. They live in [PDI-Labs-and-
 | Milestone | Focus |
 |---|---|
 | 🔜 **PDI builds** | The table above |
+| 🔲 **AI governance** AI Control Tower, Now Assist Guardian, Flow Designer & Integration Hub | Securing AI agents on ServiceNow: see [AI-Agentic-Security-Roadmap](AI-Agentic-Security-Roadmap) |
 | 🔲 **CAD** Certified Application Developer | Custom scoped apps, server and client scripting, app data models |
 | 🔲 **CTA** Certified Technical Architect | Long-term goal: turning business needs into enterprise-scale ServiceNow solutions across security, risk and IT |
 
@@ -55,6 +56,7 @@ Certs show what I know. These show what I can build. They live in [PDI-Labs-and-
 | [Forward-Deployed-Identity-Security](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio/tree/main/Forward-Deployed-Identity-Security) | CyberArk and Entra connected to ServiceNow access requests and approvals |
 | [SOC-Defensive-Labs](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio/tree/main/SOC-Defensive-Labs) | The kind of incidents SIR is built to track |
 | [Service-Desk-Labs](https://github.com/atoz-guy/Cybersecurity-Technical-Portfolio/tree/main/Service-Desk-Labs) | The ticket lifecycle ServiceNow is built on |
+| [ai-agentic-security-roadmap](https://github.com/atoz-guy/ai-agentic-security-roadmap) | Hands-on OWASP, API, IAM, PAM and AI agent labs; ServiceNow enforces the controls they teach |
 
 ---
 
