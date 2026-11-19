@@ -1,5 +1,7 @@
 > **About this folder:** this is my work through ServiceNow Developer's *Learn JavaScript on the Now Platform* video series. The lesson examples and lab solutions come from that course. I'm using it as groundwork for the CAD (Certified Application Developer) exam.
 
+> **ServiceNow-provided learning repository** — external instructor/course material used for hands-on practice.
+
 # Welcome to Learn JavaScript on the Now Platform!
 
 This repository contains examples used in the video series in folders corresponding to the lessons. 
